@@ -9,7 +9,7 @@ Repository containing everything related to the final project of the subject of 
 ### 1. Clone the repository
 
 git clone https://github.com/Randenlomnis0/cuddly-octo-guacamole.git\
-cd your-repo
+cd cuddly-octo-guacamole
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ file).
 You must download it separately and place it in the root
 directory.
 
-I downloaded from the following link: https://www.kaggle.com/datasets/simayyamuruysal/sam-vit-h-4b8939-pth.
+I downloaded it from the following link: https://www.kaggle.com/datasets/simayyamuruysal/sam-vit-h-4b8939-pth.
 
 ------------------------------------------------------------------------
 
