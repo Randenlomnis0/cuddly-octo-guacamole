@@ -9,6 +9,7 @@ Repository containing everything related to the final project of the subject of 
 ### 1. Clone the repository
 
 git clone https://github.com/Randenlomnis0/cuddly-octo-guacamole.git\
+
 cd cuddly-octo-guacamole
 
 ------------------------------------------------------------------------
